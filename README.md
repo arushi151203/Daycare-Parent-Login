@@ -1,17 +1,17 @@
-# ?? LittleSteps � Daycare Discovery Management System
+# 🌟 LittleSteps — Daycare Discovery Management System
 
-A full-stack web application built during my internship at **Aegis Jobs Pvt. Ltd., Jaipur**. This module handles **Parent Authentication** � including Login, Register, and Forgot Password functionality � for the LittleSteps Daycare Discovery Management System.
+A full-stack web application built during my internship at **Uptoskills**. This module handles **Parent Authentication** — including Login, Register, and Forgot Password functionality — for the LittleSteps Daycare Discovery Management System.
 
-## ?? Features
+## 📌 Features
 
-- ?? Parent Registration with form validation
-- ?? Secure Login with JWT authentication
-- ?? Forgot Password flow
-- ?? Password hashing using bcryptjs
-- ?? Responsive UI built with React + Tailwind CSS
-- ?? Glassmorphism dark theme design
+- 🔐 Parent Registration with form validation
+- 🔑 Secure Login with JWT authentication
+- 📧 Forgot Password flow
+- 🔒 Password hashing using bcryptjs
+- 🎨 Responsive UI built with React + Tailwind CSS
+- 🌙 Glassmorphism dark theme design
 
-## ??? Tech Stack
+## 🛠️ Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -20,22 +20,20 @@ A full-stack web application built during my internship at **Aegis Jobs Pvt. Ltd
 | Database | PostgreSQL |
 | Auth | JWT, bcryptjs |
 
-## ?? Getting Started
+## ⚙️ Getting Started
 
 ### Installation
 
 1. Clone the repo and install frontend dependencies
-   \\\ash
+   \`\`\`bash
    npm install
-   \\\
+   \`\`\`
 2. Install backend dependencies
-   \\\ash
+   \`\`\`bash
    cd server && npm install
-   \\\
-3. Create \server/.env\ with your DB credentials and JWT secret
-4. Run backend: \
-ode index.js\ and frontend: \
-pm run dev\
+   \`\`\`
+3. Create \`server/.env\` with your DB credentials and JWT secret
+4. Run backend: \`node index.js\` and frontend: \`npm run dev\`
 
-## ????? Author
-**Arushi** � Intern at Aegis Jobs Pvt. Ltd., Jaipur
+## 🙋‍♀️ Author
+**Arushi** — Intern at Uptoskills
