@@ -25,85 +25,45 @@ A full-stack web application built during my internship at **Uptoskills**. This 
 
 ```
 littlesteps/
-
 ├── server/                  # Express backend
-
 │   ├── controllers/
-
 │   │   └── authController.js
-
 │   ├── db/
-
 │   │   └── index.js
-
 │   ├── middleware/
-
 │   │   └── verifyToken.js
-
 │   ├── routes/
-
 │   │   └── auth.js
-
 │   ├── .env
-
 │   ├── index.js
-
 │   └── package.json
-
 ├── src/                     # React frontend
-
 │   ├── components/
-
 │   │   ├── BackLink.jsx
-
 │   │   ├── Btn.jsx
-
 │   │   ├── Card.jsx
-
 │   │   ├── Input.jsx
-
 │   │   ├── Logo.jsx
-
 │   │   ├── MethodToggle.jsx
-
 │   │   ├── OtpBoxes.jsx
-
 │   │   ├── RoleTabs.jsx
-
 │   │   ├── Steps.jsx
-
 │   │   └── Toast.jsx
-
 │   ├── pages/
-
 │   │   ├── DashboardScreen.jsx
-
 │   │   ├── ForgotPasswordScreen.jsx
-
 │   │   ├── LoginScreen.jsx
-
 │   │   ├── OtpVerifyScreen.jsx
-
 │   │   ├── RegisterComplete.jsx
-
 │   │   └── RegisterScreen.jsx
-
 │   ├── api.js
-
 │   ├── App.jsx
-
 │   ├── index.css
-
 │   └── main.jsx
-
 ├── index.html
-
 ├── tailwind.config.js
-
 ├── postcss.config.js
-
 ├── vite.config.js
-
 └── package.json
 ```
 ## ⚙️ Getting Started
