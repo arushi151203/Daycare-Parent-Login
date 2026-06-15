@@ -25,13 +25,13 @@ A full-stack web application built during my internship at **Uptoskills**. This 
 ### Installation
 
 1. Clone the repo and install frontend dependencies
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 2. Install backend dependencies
-   \`\`\`bash
+   ```bash
    cd server && npm install
-   \`\`\`
+   ```
 3. Create \`server/.env\` with your DB credentials and JWT secret
 4. Run backend: \`node index.js\` and frontend: \`npm run dev\`
 
